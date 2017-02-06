@@ -1,0 +1,21 @@
+{
+  "name": "konek-apimobile",
+  "version": "0.0.0",
+  "description": "KonekAPIMobile",
+  "main": "server.js",
+  "author": {
+    "name": "Riyan"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jsonwebtoken": "^7.1.9",
+    "mongoose": "^4.5.8",
+    "morgan": "^1.7.0",
+    "mpromise": "^0.5.5",
+    "nodemailer": "^2.5.0",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.1",
+    "underscore": "^1.8.3"
+  }
+}

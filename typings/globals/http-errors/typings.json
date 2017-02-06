@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/dcd4fb55facbfecac80e4a476bcdb2adf5763ab9/http-errors/http-errors.d.ts",
+    "raw": "registry:dt/http-errors#1.3.1+20160711153644",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/dcd4fb55facbfecac80e4a476bcdb2adf5763ab9/http-errors/http-errors.d.ts"
+  }
+}
